@@ -40,13 +40,4 @@ Console.WriteLine("Сумма цифр: " + numberSumma);
 /* Напишите программу, которая задаёт массив из 
 8 элементов и выводит их на экран. */
 
-Console.Write("Числа: ");
-string? Numbers = Console.ReadLine();
-for (int i = 0; i < numbers.Length; i++)
-  {
-    if (numbers[i] != ' ') 
-    {
-      numbersMassive += numbers[i];
-    }
-  }
-  return numbersMassive;
+// Не выполнено, не поняла задание :(
